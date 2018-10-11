@@ -1,0 +1,16 @@
+{
+    "count": 10,
+    "speed": 50,
+    "type": "X",
+    "enemies": [
+        {
+            "sprite": "",
+            "value": 100,
+            "animation": "",
+            "height": 50,
+            "width": 50,
+            "shouldHit": true
+        }
+    ],
+    "numberOfArrows": 15
+}
